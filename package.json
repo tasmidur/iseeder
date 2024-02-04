@@ -1,0 +1,9 @@
+{
+  "name": "iseeder",
+  "version": "v1.0.0-alpha",
+  "description": "Inverse Seed Generator from database table",
+  "main": "index.js",
+  "repository": "https://github.com/tasmidur/iseeder",
+  "author": "Md Tasmidur Rahman <tasmidurrahman@gmail.com>",
+  "license": "MIT"
+}
